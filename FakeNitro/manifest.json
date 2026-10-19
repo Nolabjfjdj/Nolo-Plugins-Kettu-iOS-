@@ -1,0 +1,14 @@
+{
+  "name": "FakeNitro",
+  "description": "Allows you to send fake emojis/stickers, use nitro themes, and stream in nitro quality",
+  "authors": [
+    {
+      "name": "LaBanane415",
+      "id": "1265737992442478632"
+    }
+  ],
+  "main": "src/index.ts",
+  "vendetta": {
+    "icon": "ic_eye_hidden"
+  }
+}
